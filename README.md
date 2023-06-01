@@ -1,3 +1,3 @@
-# jcg-writefile
+# jcg-writefile npm package
 
-### Uses Javascript to write a .html, .js and .css file based on input
+### NPM Package that uses Javascript to write a .html, .js and .css file based on input
