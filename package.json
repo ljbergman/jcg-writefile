@@ -1,0 +1,27 @@
+{
+  "name": "jcg-writefile",
+  "version": "1.0.0",
+  "description": "Writes a .html, .js and .css file based on input, with a default template built in.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljbergman/jcg-writefile.git"
+  },
+  "keywords": [
+    "write",
+    "files",
+    ".html",
+    ".js",
+    ".css",
+    "file"
+  ],
+  "author": "L.J Bergman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljbergman/jcg-writefile/issues"
+  },
+  "homepage": "https://github.com/ljbergman/jcg-writefile#readme"
+}
